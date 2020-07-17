@@ -1,3 +1,6 @@
+/* Add maven for code font (keep other xaringan defaults */
+/*@import url(https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css);*/
+
 img{
      max-width:48px;
      max-height:48px;
@@ -25,7 +28,7 @@ logo{
   color: white;
   padding: 13px 8px;
   justify-content: center;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .intro2 {
@@ -33,7 +36,7 @@ logo{
   padding: 11px 8px;
   justify-content: center;
   color: white;
-  font-size: 13px;
+  font-size: 12px;
   margin-top: 7px;
 }
 
